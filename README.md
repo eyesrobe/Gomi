@@ -10,6 +10,6 @@
 2. 222
 3. 333
 
-   function hoge() {
-   	    NSLog(@"%d", 123);
-   }
+    function hoge() {
+    	    NSLog(@"%d", 123);
+    }
