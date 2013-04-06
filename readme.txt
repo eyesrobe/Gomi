@@ -22,5 +22,6 @@ OSXのアプリ
 ・GitHub
   Commitできる。
 ・SourceTree
+  表示 > ブックマークを表示 でプロジェクト指定
   Commitできる。
   グラフが見やすい？
