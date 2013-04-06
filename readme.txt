@@ -20,4 +20,7 @@ $ Password : githubのログインパスワード
 
 OSXのアプリ
 ・GitHub
+  Commitできる。
 ・SourceTree
+  Commitできる。
+  グラフが見やすい？
