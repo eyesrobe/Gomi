@@ -15,3 +15,9 @@ $ Username : eyesrobe
 $ Password : githubのログインパスワード
 
 
+
+
+
+OSXのアプリ
+・GitHub
+・SourceTree
