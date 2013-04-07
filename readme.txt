@@ -15,6 +15,20 @@ $ Username : eyesrobe
 $ Password : githubのログインパスワード
 
 
+リモートリポジトリの複製（既存のリポジトリの複製を作る）
+$ git clone https://github.com/eyesrobe/{project}.git
+
+f
+
+githubの初め方（OSXのターミナルで）
+
+
+githubの初め方（OSXのGitHub.appで）
+
+
+githubの初め方（OSXのSourceTree.appで）
+
+
 
 
 
@@ -25,3 +39,5 @@ OSXのアプリ
   表示 > ブックマークを表示 でプロジェクト指定
   Commitできる。
   グラフが見やすい？
+
+
